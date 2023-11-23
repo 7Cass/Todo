@@ -23,7 +23,6 @@
 - [Como Executar o App](#🚀-como-executar-o-app)
 - [Techs](#🛠️-techs)
 - [Autor](#🤓-autor)
-- [👋](#👋)
 
 ## 💻 Sobre o Projeto
 ### ToDo List
